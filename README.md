@@ -1,4 +1,4 @@
-# introductionOfGitHub
+# Introduction of GitHub
 
 Introdução dos comandos para utilização do Github <br/>
 * git clone *link do repositório*
