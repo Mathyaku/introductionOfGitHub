@@ -1,6 +1,6 @@
 # introductionOfGitHub
 
-Introdução dos comnados para utilização do Github <br/>
+Introdução dos comandos para utilização do Github <br/>
 * git clone *link do repositório*
 * git add // add a new item to you repository
 * git add -A or git add . // add all modifications
@@ -11,5 +11,6 @@ Introdução dos comnados para utilização do Github <br/>
 
 # Tips
 
-* Always use GIT PULL before coding anything
+* Always starts a new repository using GIT CLONE
+* Always use GIT PULL before coding anything or to update your local repository
 * To commit a new line of code or changes use (GIT ADD -> GIT STATUS -> GIT COMMIT -> GIT PUSH)
