@@ -1,5 +1,6 @@
 # introductionOfGitHub
 
+Introdução dos comnados para utilização do Github <br/>
 * git clone *link do repositório*
 * git add // add a new item to you repository
 * git add -A or git add . // add all modifications
