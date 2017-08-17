@@ -14,3 +14,4 @@ Introdução dos comandos para utilização do Github <br/>
 * Always starts a new repository using GIT CLONE
 * Always use GIT PULL before coding anything or to update your local repository
 * To commit a new line of code or changes use (GIT ADD -> GIT STATUS -> GIT COMMIT -> GIT PUSH)
+* In a merge conflicts, after resolving theirs use :wq to save and exit
