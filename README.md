@@ -8,6 +8,7 @@ Introdução dos comandos para utilização do Github <br/>
 * git commit -m "type a message"
 * git push // used to SEND the code changes to the Github repository
 * git pull // used to UPDATE and download the changes to your repository
+* git rm file1.txt // used to remove a file on repository
 
 # Tips
 
